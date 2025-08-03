@@ -56,8 +56,8 @@ The dataset originates from a **Mayo Clinic study on primary biliary cirrhosis (
 ## 📂 Project Structure
 
 - 📓 `Liver_Cirrhosis.ipynb` — Code notebook  
-- 📄 [Project Report (PDF)](https://drive.google.com/file/d/1D1THpMaUN_oPYRSdkBV8Ir9rmbUYHXWD/view?usp=sharing)  
-- 📊 [Dataset (CSV)](https://drive.google.com/file/d/YOUR_CSV_FILE_ID/view?usp=sharing)  
+- 📄 [Project Report (PDF)](https://github.com/PardhivAryan/Liver_Cirrhosis_Stage_Detection/blob/main/Liver%20Cirrhosis%20Stage%20Detection.pdf)  
+- 📊 [Dataset (CSV)](https://raw.githubusercontent.com/PardhivAryan/Liver_Cirrhosis_Stage_Detection/refs/heads/main/liver_cirrhosis.csv)  
 - 📘 `README.md` — Project overview
 
 ---
